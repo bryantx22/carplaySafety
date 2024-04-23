@@ -1,0 +1,862 @@
+brand,full_name,short,start,end
+abarth,2017 - 2023 Abarth 595,Abarth 595,2017.0,2023.0
+abarth,2017 - 2023 Abarth 695,Abarth 695,2017.0,2023.0
+abarth,2023 Abarth 500e,Abarth 500e,2023.0,-1.0
+acura,2017 - 2023 NSX,NSX,2017.0,2023.0
+acura,2018 - 2023 MDX,MDX,2018.0,2023.0
+acura,2018 - 2023 TLX,TLX,2018.0,2023.0
+acura,2019 - 2022 ILX,ILX,2019.0,2022.0
+acura,2019 - 2023 RDX,RDX,2019.0,2023.0
+acura,2023 Integra,Integra,2023.0,-1.0
+acura,2024 ZDX,ZDX,2024.0,-1.0
+alfa-romeo,2018 - 2023 Giulia,Giulia,2018.0,2023.0
+alfa-romeo,2018 - 2023 Stelvio,Stelvio,2018.0,2023.0
+alfa-romeo,2023 Tonale,Tonale,2023.0,-1.0
+alpine,2021 - 2024 A110,A110,2021.0,2024.0
+aston-martin,2017 DB9 Volante,DB9 Volante,2017.0,-1.0
+aston-martin,2017 V8 Vantage,V8 Vantage,2017.0,-1.0
+aston-martin,2017 V12 Vantage,V12 Vantage,2017.0,-1.0
+aston-martin,2017 - 2018 Vanquish,Vanquish,2017.0,2018.0
+aston-martin,2017 - 2018 Rapide,Rapide,2017.0,2018.0
+aston-martin,2021 - 2023 DBX,DBX,2021.0,2023.0
+audi,2017 - 2023 A3,A3,2017.0,2023.0
+audi,2017 - 2023 A4,A4,2017.0,2023.0
+audi,2017 - 2023 A5,A5,2017.0,2023.0
+audi,2017 - 2023 A6,A6,2017.0,2023.0
+audi,2017 - 2023 A7,A7,2017.0,2023.0
+audi,2017 - 2023 Q2,Q2,2017.0,2023.0
+audi,2017 - 2023 Q7,Q7,2017.0,2023.0
+audi,2017 - 2023 R8,R8,2017.0,2023.0
+audi,2017 - 2023 TT,TT,2017.0,2023.0
+audi,2018 - 2023 Q5,Q5,2018.0,2023.0
+audi,2019 - 2023 A1,A1,2019.0,2023.0
+audi,2019 - 2023 A8,A8,2019.0,2023.0
+audi,2019 - 2023 e‑tron,e‑tron,2019.0,2023.0
+audi,2019 - 2023 Q8,Q8,2019.0,2023.0
+audi,2020 - 2023 Q3,Q3,2020.0,2023.0
+audi,2021 - 2023 e‑tron Sportback,e‑tron Sportback,2021.0,2023.0
+audi,2022 - 2023 e‑tron GT,e‑tron GT,2022.0,2023.0
+audi,2022 - 2023 Q4 e‑tron,Q4 e‑tron,2022.0,2023.0
+audi,2022 - 2023 Q4 Sportback e‑tron,Q4 Sportback e‑tron,2022.0,2023.0
+audi,2023 Q8 e‑tron,Q8 e‑tron,2023.0,-1.0
+audi,2023 Q8 Sportback e‑tron,Q8 Sportback e‑tron,2023.0,-1.0
+baojun,2018 - 2022 310,310,2018.0,2022.0
+baojun,2018 - 2022 310W,310W,2018.0,2022.0
+baojun,2018 - 2022 510,510,2018.0,2022.0
+baojun,2020 - 2023 730,730,2020.0,2023.0
+baojun,2022 - 2024 310C,310C,2022.0,2024.0
+baojun,2022 - 2025 530,530,2022.0,2025.0
+bentley,2017 - 2023 Bentayga,Bentayga,2017.0,2023.0
+bentley,2019 - 2023 Continental,Continental,2019.0,2023.0
+bentley,2020 - 2023 Flying Spur,Flying Spur,2020.0,2023.0
+bmw,2017 - 2023 1 Series,1 Series,2017.0,2023.0
+bmw,2017 - 2019 6 Series,6 Series,2017.0,2019.0
+bmw,2017 - 2023 2 Series,2 Series,2017.0,2023.0
+bmw,2017 - 2023 4 Series,4 Series,2017.0,2023.0
+bmw,2017 - 2023 5 Series,5 Series,2017.0,2023.0
+bmw,2017 - 2023 7 Series,7 Series,2017.0,2023.0
+bmw,2018 - 2023 8 Series,8 Series,2018.0,2023.0
+bmw,2017 - 2023 X3,X3,2017.0,2023.0
+bmw,2017 - 2023 X4,X4,2017.0,2023.0
+bmw,2017 - 2023 X5,X5,2017.0,2023.0
+bmw,2017 - 2023 X6,X6,2017.0,2023.0
+bmw,2018 - 2023 X7,X7,2018.0,2023.0
+bmw,2017 - 2023 3 Series,3 Series,2017.0,2023.0
+bmw,2018 - 2023 X1,X1,2018.0,2023.0
+bmw,2018 - 2023 X2,X2,2018.0,2023.0
+bmw,2018 - 2023 i3,i3,2018.0,2023.0
+bmw,2019 - 2020 i8,i8,2019.0,2020.0
+bmw,2019 - 2023 Z4,Z4,2019.0,2023.0
+bmw,2024 i5,i5,2024.0,-1.0
+bmw,2021 - 2023 1 Series,1 Series,2021.0,2023.0
+bmw,2021 - 2023 2 Series,2 Series,2021.0,2023.0
+bmw,2021 - 2023 3 Series,3 Series,2021.0,2023.0
+bmw,2021 - 2023 4 Series,4 Series,2021.0,2023.0
+bmw,2021 - 2023 5 Series,5 Series,2021.0,2023.0
+bmw,2021 - 2023 6 Series,6 Series,2021.0,2023.0
+bmw,2021 - 2023 8 Series,8 Series,2021.0,2023.0
+bmw,2021 - 2023 X5,X5,2021.0,2023.0
+bmw,2021 - 2023 X6,X6,2021.0,2023.0
+bmw,2021 - 2023 X7,X7,2021.0,2023.0
+bmw,2021 - 2023 X5 M,X5 M,2021.0,2023.0
+bmw,2021 - 2023 X6 M,X6 M,2021.0,2023.0
+bmw,2021 - 2023 Z4,Z4,2021.0,2023.0
+bmw,2022 - 2023 i4,i4,2022.0,2023.0
+bmw,2022 - 2023 iX,iX,2022.0,2023.0
+bmw,2022 - 2023 iX1,iX1,2022.0,2023.0
+bmw,2022 - 2023 iX3,iX3,2022.0,2023.0
+bmw,2023 i3,i3,2023.0,-1.0
+bmw,2023 i7,i7,2023.0,-1.0
+bmw,2024 i5,i5,2024.0,-1.0
+borgward,2018 - 2020 BX3,BX3,2018.0,2020.0
+borgward,2018 - 2020 BX4,BX4,2018.0,2020.0
+borgward,2018 - 2020 BX5,BX5,2018.0,2020.0
+borgward,2020 BX6,BX6,2020.0,-1.0
+buick,2016 - 2017 Excelle,Excelle,2016.0,2017.0
+buick,2016 - 2022 LaCrosse,LaCrosse,2016.0,2022.0
+buick,2016 - 2022 Regal,Regal,2016.0,2022.0
+buick,2017 - 2022 Encore,Encore,2017.0,2022.0
+buick,2017 - 2023 Envision,Envision,2017.0,2023.0
+buick,2018 - 2023 Enclave,Enclave,2018.0,2023.0
+buick,2018 - 2023 GT,GT,2018.0,2023.0
+buick,2018 - 2023 GT-MPV,GT-MPV,2018.0,2023.0
+buick,2018 - 2023 GL6,GL6,2018.0,2023.0
+buick,2020 - 2023 VELITE 6,VELITE 6,2020.0,2023.0
+buick,2020 - 2023 GL8 Avenir,GL8 Avenir,2020.0,2023.0
+buick,2020 - 2023 GL8 ES,GL8 ES,2020.0,2023.0
+buick,2021 - 2023 GL8 Business Travel Edition,GL8 Business Travel Edition,2021.0,2023.0
+buick,2023 Encore GX,Encore GX,2023.0,-1.0
+buick,2024 Envista,Envista,2024.0,-1.0
+byd,2021 - 2023 SEAL U,SEAL U,2021.0,2023.0
+byd,2021 - 2023 SONG PLUS,SONG PLUS,2021.0,2023.0
+byd,2022 - 2023 ATTO3,ATTO3,2022.0,2023.0
+byd,2022 - 2023 TANG,TANG,2022.0,2023.0
+byd,2022 - 2023 YUAN PLUS,YUAN PLUS,2022.0,2023.0
+byd,2023 CHAZOR,CHAZOR,2023.0,-1.0
+byd,2023 DOLPHIN,DOLPHIN,2023.0,-1.0
+byd,2023 HALO6,HALO6,2023.0,-1.0
+byd,2023 QIN PLUS,QIN PLUS,2023.0,-1.0
+byd,2023 SEAGULL,SEAGULL,2023.0,-1.0
+byd,2023 SEAL,SEAL,2023.0,-1.0
+byd,2022 - 2023 HAN,HAN,2022.0,2023.0
+cadillac,2016 ELR,ELR,2016.0,-1.0
+cadillac,2016 - 2019 ATS,ATS,2016.0,2019.0
+cadillac,2016 - 2019 ATS‑V,ATS‑V,2016.0,2019.0
+cadillac,2016 - 2019 CTS,CTS,2016.0,2019.0
+cadillac,2016 - 2019 CTS‑V,CTS‑V,2016.0,2019.0
+cadillac,2016 - 2022 CT6,CT6,2016.0,2022.0
+cadillac,2016 - 2022 CT6‑V,CT6‑V,2016.0,2022.0
+cadillac,2016 - 2019 XTS,XTS,2016.0,2019.0
+cadillac,2017 - 2023 XT5,XT5,2017.0,2023.0
+cadillac,2019 - 2023 XT4,XT4,2019.0,2023.0
+cadillac,2020 - 2023 CT4,CT4,2020.0,2023.0
+cadillac,2020 - 2023 CT4‑V,CT4‑V,2020.0,2023.0
+cadillac,2020 - 2023 CT5,CT5,2020.0,2023.0
+cadillac,2020 - 2023 CT5‑V,CT5‑V,2020.0,2023.0
+cadillac,2020 - 2023 XT6,XT6,2020.0,2023.0
+cadillac,2016 - 2023 Escalade / ESV,Escalade / ESV,2016.0,2023.0
+cadillac,2022 - 2023 CT4‑V Blackwing,CT4‑V Blackwing,2022.0,2023.0
+cadillac,2022 - 2023 CT5‑V Blackwing,CT5‑V Blackwing,2022.0,2023.0
+cadillac,2023 Escalade‑V,Escalade‑V,2023.0,-1.0
+cadillac,2023 LYRIQ,LYRIQ,2023.0,-1.0
+chery,2017 - 2022 Arrizo 5,Arrizo 5,2017.0,2022.0
+chery,2017 - 2022 Arrizo 7,Arrizo 7,2017.0,2022.0
+chery,2017 - 2022 Tiggo 3,Tiggo 3,2017.0,2022.0
+chery,2017 - 2022 Tiggo 3X,Tiggo 3X,2017.0,2022.0
+chery,2017 - 2022 Tiggo 5X,Tiggo 5X,2017.0,2022.0
+chery,2018 - 2022 Tiggo 2,Tiggo 2,2018.0,2022.0
+chery,2018 - 2022 Tiggo 4,Tiggo 4,2018.0,2022.0
+chery,2018 - 2022 Tiggo 8,Tiggo 8,2018.0,2022.0
+chery,2020 - 2022 Arrizo 6,Arrizo 6,2020.0,2022.0
+chevrolet,2016 - 2017 Cavalier,Cavalier,2016.0,2017.0
+chevrolet,2016 - 2019 Volt,Volt,2016.0,2019.0
+chevrolet,2016 - 2023 Camaro,Camaro,2016.0,2023.0
+chevrolet,2016 - 2023 Camaro Convertible,Camaro Convertible,2016.0,2023.0
+chevrolet,2016 - 2023 Colorado,Colorado,2016.0,2023.0
+chevrolet,2016 - 2023 Corvette,Corvette,2016.0,2023.0
+chevrolet,2016 - 2023 Corvette Convertible,Corvette Convertible,2016.0,2023.0
+chevrolet,2016 - 2022 Cruze,Cruze,2016.0,2022.0
+chevrolet,2016 - 2020 Impala,Impala,2016.0,2020.0
+chevrolet,2016 - 2023 Malibu,Malibu,2016.0,2023.0
+chevrolet,2016 - 2023 Sail LOVA,Sail LOVA,2016.0,2023.0
+chevrolet,2016 - 2023 Silverado,Silverado,2016.0,2023.0
+chevrolet,2016 - 2023 Silverado HD,Silverado HD,2016.0,2023.0
+chevrolet,2016 - 2022 Spark,Spark,2016.0,2022.0
+chevrolet,2016 - 2023 Suburban,Suburban,2016.0,2023.0
+chevrolet,2016 - 2023 Tahoe,Tahoe,2016.0,2023.0
+chevrolet,2017 - 2020 Aveo,Aveo,2017.0,2020.0
+chevrolet,2017 - 2023 Bolt EV,Bolt EV,2017.0,2023.0
+chevrolet,2017 - 2023 Prisma,Prisma,2017.0,2023.0
+chevrolet,2017 - 2023 S10,S10,2017.0,2023.0
+chevrolet,2017 - 2023 Sonic,Sonic,2017.0,2023.0
+chevrolet,2017 - 2023 Tracker,Tracker,2017.0,2023.0
+chevrolet,2017 - 2023 Trax,Trax,2017.0,2023.0
+chevrolet,2018 - 2023 Equinox,Equinox,2018.0,2023.0
+chevrolet,2018 - 2023 Traverse,Traverse,2018.0,2023.0
+chevrolet,2019 - 2023 Blazer,Blazer,2019.0,2023.0
+chevrolet,2019 - 2023 Monza,Monza,2019.0,2023.0
+chevrolet,2020 - 2023 Captiva,Captiva,2020.0,2023.0
+chevrolet,2020 - 2023 Trailblazer,Trailblazer,2020.0,2023.0
+chevrolet,2022 - 2023 Bolt EUV,Bolt EUV,2022.0,2023.0
+chrysler,2017 - 2023 300,300,2017.0,2023.0
+chrysler,2018 - 2023 Pacifica,Pacifica,2018.0,2023.0
+chrysler,2020 - 2021 Voyager,Voyager,2020.0,2021.0
+citroen,2016 - 2023 Aircross,Aircross,2016.0,2023.0
+citroen,2016 - 2023 Berlingo Multispace,Berlingo Multispace,2016.0,2023.0
+citroen,2016 - 2023 C3,C3,2016.0,2023.0
+citroen,2016 - 2023 C4,C4,2016.0,2023.0
+citroen,2016 - 2023 C4 Picasso,C4 Picasso,2016.0,2023.0
+citroen,2016 - 2023 C5,C5,2016.0,2023.0
+citroen,2016 - 2023 C5 Break,C5 Break,2016.0,2023.0
+citroen,2016 - 2022 C6,C6,2016.0,2022.0
+citroen,2016 - 2022 Jumper,Jumper,2016.0,2022.0
+citroen,2016 - 2022 Jumpy,Jumpy,2016.0,2022.0
+citroen,2016 - 2023 Spacetourer,Spacetourer,2016.0,2023.0
+citroen,2017 - 2022 C3‑AirCross,C3‑AirCross,2017.0,2022.0
+citroen,2017 - 2022 C3‑XR,C3‑XR,2017.0,2022.0
+citroen,2017 - 2022 C4 Cactus,C4 Cactus,2017.0,2022.0
+citroen,2017 - 2022 C4‑L,C4‑L,2017.0,2022.0
+citroen,2017 - 2022 C4‑Lounge,C4‑Lounge,2017.0,2022.0
+citroen,2017 - 2022 C4 Spacetourer,C4 Spacetourer,2017.0,2022.0
+citroen,2017 - 2022 C‑Elysée,C‑Elysée,2017.0,2022.0
+citroen,2017 - 2022 C‑Quatre,C‑Quatre,2017.0,2022.0
+citroen,2018 - 2023 Berlingo,Berlingo,2018.0,2023.0
+citroen,2018 - 2023 C5 Aircross,C5 Aircross,2018.0,2023.0
+cowin,2017 - 2021 E3,E3,2017.0,2021.0
+cupra,2022 - 2023 Ateca,Ateca,2022.0,2023.0
+cupra,2022 - 2023 Born,Born,2022.0,2023.0
+cupra,2022 - 2023 Leon,Leon,2022.0,2023.0
+cupra,2022 - 2023 Formentor,Formentor,2022.0,2023.0
+dacia,2019 - 2024 Spring,Spring,2019.0,2024.0
+dacia,2020 - 2024 Logan,Logan,2020.0,2024.0
+dacia,2020 - 2024 Sandero,Sandero,2020.0,2024.0
+dacia,2020 - 2024 Sandero Stepway,Sandero Stepway,2020.0,2024.0
+dacia,2021 - 2024 Duster,Duster,2021.0,2024.0
+dacia,2022 - 2024 Jogger,Jogger,2022.0,2024.0
+datsun,2019 - 2022 GO,GO,2019.0,2022.0
+datsun,2019 - 2022 GO+,GO+,2019.0,2022.0
+dodge,2017 - 2023 Challenger,Challenger,2017.0,2023.0
+dodge,2017 - 2023 Charger,Charger,2017.0,2023.0
+dodge,2018 - 2023 Durango,Durango,2018.0,2023.0
+dodge,2019 - 2021 Journey,Journey,2019.0,2021.0
+dodge,2023 Hornet,Hornet,2023.0,-1.0
+dongfeng,2016 景逸S50,景逸S50,2016.0,-1.0
+dongfeng,2016 - 2017 风行50,风行50,2016.0,2017.0
+dongfeng,2016 - 2022 风行X5,风行X5,2016.0,2022.0
+dongfeng,2016 - 2022 景逸X5,景逸X5,2016.0,2022.0
+dongfeng,2016 - 2022 景逸X6,景逸X6,2016.0,2022.0
+dongfeng,2017 风行SX7,风行SX7,2017.0,-1.0
+dongfeng,2017 风行S50EV,风行S50EV,2017.0,-1.0
+dongfeng,2017 景逸X5L,景逸X5L,2017.0,-1.0
+dongfeng,2017 景逸S50EV,景逸S50EV,2017.0,-1.0
+dongfeng,2017 - 2022 风行X6,风行X6,2017.0,2022.0
+dongfeng,2017 - 2022 风行X7,风行X7,2017.0,2022.0
+dongfeng,2017 - 2022 风行SX6,风行SX6,2017.0,2022.0
+dongfeng,2017 - 2022 风行F600,风行F600,2017.0,2022.0
+dongfeng,2017 - 2022 风行M6,风行M6,2017.0,2022.0
+dongfeng,2017 - 2022 风行F6,风行F6,2017.0,2022.0
+dongfeng,2017 - 2022 风行V6,风行V6,2017.0,2022.0
+dongfeng,2017 - 2022 风行M5,风行M5,2017.0,2022.0
+dongfeng,2017 - 2022 风行F5,风行F5,2017.0,2022.0
+dongfeng,2017 - 2022 风行V5,风行V5,2017.0,2022.0
+dongfeng,2017 - 2022 景逸X7,景逸X7,2017.0,2022.0
+dongfeng,2018 - 2022 风行X3,风行X3,2018.0,2022.0
+dongfeng,2018 - 2022 风行X7L,风行X7L,2018.0,2022.0
+dongfeng,2018 - 2022 风行X7S,风行X7S,2018.0,2022.0
+dongfeng,2018 - 2022 风行S500EV,风行S500EV,2018.0,2022.0
+dongfeng,2018 - 2022 景逸X3,景逸X3,2018.0,2022.0
+dongfeng,2018 - 2022 景逸X7S,景逸X7S,2018.0,2022.0
+dongfeng,2018 - 2022 景逸X7L,景逸X7L,2018.0,2022.0
+ds,2016 - 2023 DS 3,DS 3,2016.0,2023.0
+ds,2016 - 2022 DS 3 Cabrio,DS 3 Cabrio,2016.0,2022.0
+ds,2016 - 2022 DS 3 Crossback,DS 3 Crossback,2016.0,2022.0
+ds,2016 - 2023 DS 4,DS 4,2016.0,2023.0
+ds,2016 - 2022 DS 5,DS 5,2016.0,2022.0
+ds,2017 - 2022 DS 4S,DS 4S,2017.0,2022.0
+ds,2017 - 2022 DS 5LS,DS 5LS,2017.0,2022.0
+ds,2017 - 2022 DS 6,DS 6,2017.0,2022.0
+ds,2018 - 2023 DS 7,DS 7,2018.0,2023.0
+ds,2020 - 2023 DS9,DS9,2020.0,2023.0
+exeed,2020 - 2023 Exeed VX,Exeed VX,2020.0,2023.0
+exeed,2020 - 2023 Exeed TXL,Exeed TXL,2020.0,2023.0
+exeed,2020 - 2023 Exeed LX,Exeed LX,2020.0,2023.0
+ferrari,2016 FF,FF,2016.0,-1.0
+ferrari,2016 F12 tdf,F12 tdf,2016.0,-1.0
+ferrari,2016 - 2017 California T,California T,2016.0,2017.0
+ferrari,2016 - 2017 F12 Berlinetta,F12 Berlinetta,2016.0,2017.0
+ferrari,2016 - 2020 488 GTB,488 GTB,2016.0,2020.0
+ferrari,2016 - 2020 488 Spider,488 Spider,2016.0,2020.0
+ferrari,2017 - 2020 GTC4Lusso,GTC4Lusso,2017.0,2020.0
+ferrari,2018 - 2021 812 Superfast,812 Superfast,2018.0,2021.0
+ferrari,2018 - 2023 Portofino,Portofino,2018.0,2023.0
+ferrari,2019 - 2023 Monza SP1,Monza SP1,2019.0,2023.0
+ferrari,2019 - 2023 Monza SP2,Monza SP2,2019.0,2023.0
+ferrari,2020 - 2023 F8 Spider,F8 Spider,2020.0,2023.0
+ferrari,2020 - 2023 F8 Tributo,F8 Tributo,2020.0,2023.0
+ferrari,2020 - 2023 SF90 Stradale,SF90 Stradale,2020.0,2023.0
+ferrari,2021 - 2023 812 GTS,812 GTS,2021.0,2023.0
+ferrari,2021 - 2023 Roma,Roma,2021.0,2023.0
+ferrari,2021 - 2023 SF90 Spider,SF90 Spider,2021.0,2023.0
+ferrari,2022 - 2023 296 GTB,296 GTB,2022.0,2023.0
+ferrari,2023 296 GTS,296 GTS,2023.0,-1.0
+ferrari,2023 Daytona SP3,Daytona SP3,2023.0,-1.0
+ferrari,2023 Purosangue,Purosangue,2023.0,-1.0
+fiat,2017 - 2023 500,500,2017.0,2023.0
+fiat,2017 - 2022 500L,500L,2017.0,2022.0
+fiat,2017 - 2023 Tipo,Tipo,2017.0,2023.0
+fiat,2018 - 2023 500X,500X,2018.0,2023.0
+fiat,2018 - 2023 Argo,Argo,2018.0,2023.0
+fiat,2021 - 2023 Panda,Panda,2021.0,2023.0
+fiat,2023 E‑Doblò,E‑Doblò,2023.0,-1.0
+fiat,2024 600e,600e,2024.0,-1.0
+ford,2017 - 2019 C‑MAX,C‑MAX,2017.0,2019.0
+ford,2017 - 2019 Fiesta,Fiesta,2017.0,2019.0
+ford,2017 - 2019 Flex,Flex,2017.0,2019.0
+ford,2017 - 2019 Focus,Focus,2017.0,2019.0
+ford,2017 - 2019 Taurus,Taurus,2017.0,2019.0
+ford,2017 - 2023 Edge,Edge,2017.0,2023.0
+ford,2017 - 2023 Escape,Escape,2017.0,2023.0
+ford,2017 - 2023 Expedition,Expedition,2017.0,2023.0
+ford,2017 - 2023 F‑150,F‑150,2017.0,2023.0
+ford,2017 - 2020 Fusion,Fusion,2017.0,2020.0
+ford,2017 - 2023 Transit,Transit,2017.0,2023.0
+ford,2017 - 2022 Transit Connect,Transit Connect,2017.0,2022.0
+ford,2017 - 2023 Mustang,Mustang,2017.0,2023.0
+ford,2017 - 2023 Super Duty,Super Duty,2017.0,2023.0
+ford,2017 - 2023 Explorer,Explorer,2017.0,2023.0
+ford,2018 - 2022 EcoSport,EcoSport,2018.0,2022.0
+ford,2018 - 2023 Ford GT,Ford GT,2018.0,2023.0
+ford,2021 - 2023 Mustang Mach‑E,Mustang Mach‑E,2021.0,2023.0
+ford,2021 - 2023 Bronco,Bronco,2021.0,2023.0
+ford,2021 - 2023 Bronco Sport,Bronco Sport,2021.0,2023.0
+ford,2022 - 2023 Evos,Evos,2022.0,2023.0
+ford,2022 - 2023 Maverick,Maverick,2022.0,2023.0
+ford,2023 E‑Transit,E‑Transit,2023.0,-1.0
+genesis,2017 - 2023 G80,G80,2017.0,2023.0
+genesis,2020 - 2023 G70,G70,2020.0,2023.0
+genesis,2020 - 2023 G90,G90,2020.0,2023.0
+genesis,2021 - 2023 GV80,GV80,2021.0,2023.0
+genesis,2022 - 2023 GV70,GV70,2022.0,2023.0
+genesis,2022 - 2023 GV60,GV60,2022.0,2023.0
+genesis,2023 GV60,GV60,2023.0,-1.0
+genesis,2023 G90,G90,2023.0,-1.0
+gmc,2016 - 2023 Canyon,Canyon,2016.0,2023.0
+gmc,2016 - 2023 Sierra,Sierra,2016.0,2023.0
+gmc,2016 - 2023 Sierra HD,Sierra HD,2016.0,2023.0
+gmc,2016 - 2023 Yukon,Yukon,2016.0,2023.0
+gmc,2016 - 2023 Yukon XL,Yukon XL,2016.0,2023.0
+gmc,2017 - 2023 Acadia,Acadia,2017.0,2023.0
+gmc,2018 - 2023 Terrain,Terrain,2018.0,2023.0
+gmc,2022 - 2023 GMC HUMMER EV Pickup,GMC HUMMER EV Pickup,2022.0,2023.0
+gmc,2024 GMC HUMMER EV SUV,GMC HUMMER EV SUV,2024.0,-1.0
+haima,2017 - 2022 F7,F7,2017.0,2022.0
+haima,2017 - 2022 S5,S5,2017.0,2022.0
+haima,2017 - 2022 S5 young,S5 young,2017.0,2022.0
+haima,2017 - 2022 S7,S7,2017.0,2022.0
+haima,2018 - 2022 F5,F5,2018.0,2022.0
+haval,2017 - 2023 H1 Blue‑Brand,H1 Blue‑Brand,2017.0,2023.0
+haval,2017 - 2023 H2 Blue‑Brand,H2 Blue‑Brand,2017.0,2023.0
+haval,2017 - 2023 H2 Red‑Brand,H2 Red‑Brand,2017.0,2023.0
+haval,2017 - 2023 H6 Blue‑Brand,H6 Blue‑Brand,2017.0,2023.0
+haval,2017 - 2023 H6 Red‑Brand,H6 Red‑Brand,2017.0,2023.0
+haval,2019 - 2023 F7,F7,2019.0,2023.0
+haval,2020 - 2023 H6N,H6N,2020.0,2023.0
+haval,2020 - 2023 HAVAL DARGO,HAVAL DARGO,2020.0,2023.0
+holden,2016 - 2020 Captiva,Captiva,2016.0,2020.0
+holden,2016 - 2018 Insignia,Insignia,2016.0,2018.0
+holden,2016 - 2018 Spark,Spark,2016.0,2018.0
+holden,2016 - 2020 Colorado,Colorado,2016.0,2020.0
+holden,2017 - 2020 Astra,Astra,2017.0,2020.0
+holden,2017 - 2020 Barina,Barina,2017.0,2020.0
+holden,2017 - 2020 Trailblazer,Trailblazer,2017.0,2020.0
+holden,2018 - 2020 Commodore,Commodore,2018.0,2020.0
+holden,2018 - 2020 Equinox,Equinox,2018.0,2020.0
+holden,2018 - 2020 Trax,Trax,2018.0,2020.0
+holden,2019 - 2020 Acadia,Acadia,2019.0,2020.0
+honda,2016 - 2023 Accord,Accord,2016.0,2023.0
+honda,2016 - 2023 Civic,Civic,2016.0,2023.0
+honda,2017 - 2023 Ridgeline,Ridgeline,2017.0,2023.0
+honda,2017 - 2023 CR‑V,CR‑V,2017.0,2023.0
+honda,2017 - 2023 Pilot,Pilot,2017.0,2023.0
+honda,2018 - 2023 Odyssey,Odyssey,2018.0,2023.0
+honda,2019 - 2022 Clarity,Clarity,2019.0,2022.0
+honda,2018 - 2020 Fit,Fit,2018.0,2020.0
+honda,2019 - 2023 HR‑V,HR‑V,2019.0,2023.0
+honda,2019 - 2022 Insight,Insight,2019.0,2022.0
+honda,2019 - 2023 Passport,Passport,2019.0,2023.0
+honda,2024 Prologue,Prologue,2024.0,-1.0
+honda-motor,2018 - 2023 Gold Wing,Gold Wing,2018.0,2023.0
+honda-motor,2020 - 2023 Africa Twin,Africa Twin,2020.0,2023.0
+hyundai,2015 - 2016 Genesis Sedan,Genesis Sedan,2015.0,2016.0
+hyundai,2015 - 2018 Azera,Azera,2015.0,2018.0
+hyundai,2015 - 2023 Sonata,Sonata,2015.0,2023.0
+hyundai,2016 - 2023 i10,i10,2016.0,2023.0
+hyundai,2016 - 2023 i30,i30,2016.0,2023.0
+hyundai,2016 - 2022 i40,i40,2016.0,2022.0
+hyundai,2016 - 2020 Elantra GT,Elantra GT,2016.0,2020.0
+hyundai,2016 - 2023 Tucson,Tucson,2016.0,2023.0
+hyundai,2016 - 2022 Veloster,Veloster,2016.0,2022.0
+hyundai,2017 - 2023 Santa Fe,Santa Fe,2017.0,2023.0
+hyundai,2017 - 2020 Ioniq,Ioniq,2017.0,2020.0
+hyundai,2017 - 2023 Kona,Kona,2017.0,2023.0
+hyundai,2017 - 2019 Santa Fe Sport,Santa Fe Sport,2017.0,2019.0
+hyundai,2017 - 2023 Elantra,Elantra,2017.0,2023.0
+hyundai,2019 Santa Fe XL,Santa Fe XL,2019.0,-1.0
+hyundai,2019 - 2023 Accent,Accent,2019.0,2023.0
+hyundai,2020 - 2023 Nexo,Nexo,2020.0,2023.0
+hyundai,2020 - 2023 Palisade,Palisade,2020.0,2023.0
+hyundai,2020 - 2023 Venue,Venue,2020.0,2023.0
+hyundai,2021 - 2023 Bayon,Bayon,2021.0,2023.0
+hyundai,2022 - 2023 Casper,Casper,2022.0,2023.0
+hyundai,2022 - 2023 Ioniq 5,Ioniq 5,2022.0,2023.0
+hyundai,2022 - 2023 SANTA CRUZ,SANTA CRUZ,2022.0,2023.0
+hyundai,2023 Palisade,Palisade,2023.0,-1.0
+hyundai,2023 IONIQ 6,IONIQ 6,2023.0,-1.0
+indian-motorcycle,2020 - 2023 Challenger,Challenger,2020.0,2023.0
+indian-motorcycle,2020 - 2023 Chieftain,Chieftain,2020.0,2023.0
+indian-motorcycle,2020 - 2023 Roadmaster,Roadmaster,2020.0,2023.0
+infiniti,2020 - 2023 Q50,Q50,2020.0,2023.0
+infiniti,2020 - 2022 Q60,Q60,2020.0,2022.0
+infiniti,2020 - 2023 QX50,QX50,2020.0,2023.0
+infiniti,2020 - 2023 QX80,QX80,2020.0,2023.0
+infiniti,2022 - 2023 QX55,QX55,2022.0,2023.0
+infiniti,2022 - 2023 QX60,QX60,2022.0,2023.0
+jaguar,2019 - 2023 E‑Pace,E‑Pace,2019.0,2023.0
+jaguar,2019 - 2023 F‑Pace,F‑Pace,2019.0,2023.0
+jaguar,2019 - 2023 I‑Pace,I‑Pace,2019.0,2023.0
+jaguar,2019 - 2020 XE,XE,2019.0,2020.0
+jaguar,2019 - 2023 XF,XF,2019.0,2023.0
+jaguar,2019 - 2020 XJ,XJ,2019.0,2020.0
+jaguar,2019 - 2023 F‑Type,F‑Type,2019.0,2023.0
+jeep,2017 - 2023 Compass,Compass,2017.0,2023.0
+jeep,2018 - 2023 Grand Cherokee,Grand Cherokee,2018.0,2023.0
+jeep,2018 - 2023 Renegade,Renegade,2018.0,2023.0
+jeep,2018 - 2023 Wrangler,Wrangler,2018.0,2023.0
+jeep,2020 - 2023 Cherokee,Cherokee,2020.0,2023.0
+jeep,2020 - 2023 Gladiator,Gladiator,2020.0,2023.0
+jeep,2022 - 2023 Grand Wagoneer,Grand Wagoneer,2022.0,2023.0
+jeep,2022 - 2023 Wagoneer,Wagoneer,2022.0,2023.0
+kia,2014 - 2023 Soul,Soul,2014.0,2023.0
+kia,2015 - 2020 Optima,Optima,2015.0,2020.0
+kia,2015 - 2020 Optima Hybrid,Optima Hybrid,2015.0,2020.0
+kia,2015 - 2021 Sedona,Sedona,2015.0,2021.0
+kia,2015 - 2021 Soul EV,Soul EV,2015.0,2021.0
+kia,2017 - 2020 Cadenza,Cadenza,2017.0,2020.0
+kia,2017 - 2023 Sorento,Sorento,2017.0,2023.0
+kia,2017 - 2023 Sportage,Sportage,2017.0,2023.0
+kia,2017 - 2023 Forte,Forte,2017.0,2023.0
+kia,2017 - 2023 Niro,Niro,2017.0,2023.0
+kia,2017 - 2020 Optima Plug‑In Hybrid,Optima Plug‑In Hybrid,2017.0,2020.0
+kia,2018 - 2023 Niro Plug‑In Hybrid,Niro Plug‑In Hybrid,2018.0,2023.0
+kia,2018 - 2023 Rio,Rio,2018.0,2023.0
+kia,2018 - 2023 Stinger,Stinger,2018.0,2023.0
+kia,2019 - 2020 K900,K900,2019.0,2020.0
+kia,2020 - 2023 Telluride,Telluride,2020.0,2023.0
+kia,2021 - 2024 Seltos,Seltos,2021.0,2024.0
+kia,2021 - 2023 K5,K5,2021.0,2023.0
+kia,2021 - 2023 K8,K8,2021.0,2023.0
+kia,2022 - 2023 Carnival,Carnival,2022.0,2023.0
+kia,2022 - 2023 EV6,EV6,2022.0,2023.0
+kia,2024 EV9,EV9,2024.0,-1.0
+kia,2023 Telluride,Telluride,2023.0,-1.0
+kia,2023 Niro,Niro,2023.0,-1.0
+kia,2024 Seltos,Seltos,2024.0,-1.0
+lada,2021 - 2023 Vesta,Vesta,2021.0,2023.0
+lada,2021 - 2022 XRAY,XRAY,2021.0,2022.0
+lada,2021 - 2023 Granta,Granta,2021.0,2023.0
+lada,2022 - 2023 Largus,Largus,2022.0,2023.0
+lamborghini,2017 Centenario,Centenario,2017.0,-1.0
+lamborghini,2018 - 2023 Aventador,Aventador,2018.0,2023.0
+lamborghini,2019 - 2023 Huracán,Huracán,2019.0,2023.0
+lamborghini,2019 - 2023 Urus,Urus,2019.0,2023.0
+lamborghini,2024 Revuelto,Revuelto,2024.0,-1.0
+land-rover,2019 - 2023 Discovery,Discovery,2019.0,2023.0
+land-rover,2019 - 2023 Discovery Sport,Discovery Sport,2019.0,2023.0
+land-rover,2019 - 2023 Range Rover,Range Rover,2019.0,2023.0
+land-rover,2019 - 2023 Range Rover Evoque,Range Rover Evoque,2019.0,2023.0
+land-rover,2019 - 2023 Range Rover Sport,Range Rover Sport,2019.0,2023.0
+land-rover,2019 - 2023 Range Rover Velar,Range Rover Velar,2019.0,2023.0
+land-rover,2020 - 2023 Defender,Defender,2020.0,2023.0
+lexus,2019 - 2023 ES,ES,2019.0,2023.0
+lexus,2019 - 2023 LC,LC,2019.0,2023.0
+lexus,2019 - 2023 LS,LS,2019.0,2023.0
+lexus,2019 - 2023 NX,NX,2019.0,2023.0
+lexus,2019 - 2023 RC,RC,2019.0,2023.0
+lexus,2019 - 2023 RC F,RC F,2019.0,2023.0
+lexus,2019 - 2022 UX,UX,2019.0,2022.0
+lexus,2020 - 2023 RX,RX,2020.0,2023.0
+lexus,2021 - 2023 ES Hybrid,ES Hybrid,2021.0,2023.0
+lexus,2021 - 2023 IS,IS,2021.0,2023.0
+lexus,2021 - 2023 LC Convertible,LC Convertible,2021.0,2023.0
+lexus,2021 - 2023 LC Hybrid,LC Hybrid,2021.0,2023.0
+lexus,2021 - 2023 LS Hybrid,LS Hybrid,2021.0,2023.0
+lexus,2021 - 2023 NX Hybrid,NX Hybrid,2021.0,2023.0
+lexus,2021 - 2023 RX Hybrid,RX Hybrid,2021.0,2023.0
+lexus,2021 - 2023 UX Hybrid,UX Hybrid,2021.0,2023.0
+lexus,2022 - 2023 GX,GX,2022.0,2023.0
+lexus,2023 IS 500,IS 500,2023.0,-1.0
+lexus,2023 NX Plug‑in Hybrid EV,NX Plug‑in Hybrid EV,2023.0,-1.0
+lexus,2023 RZ 450e,RZ 450e,2023.0,-1.0
+lexus,2023 RX 500h,RX 500h,2023.0,-1.0
+lexus,2024 TX,TX,2024.0,-1.0
+ldv,2015 - 2023 G10,G10,2015.0,2023.0
+ldv,2017 - 2019 EV80,EV80,2017.0,2019.0
+ldv,2017 - 2023 D90,D90,2017.0,2023.0
+ldv,2017 - 2023 T60,T60,2017.0,2023.0
+ldv,2018 - 2023 V80,V80,2018.0,2023.0
+ldv,2019 - 2023 DELIVER 9,DELIVER 9,2019.0,2023.0
+ldv,2020 - 2023 eDELIVER 9,eDELIVER 9,2020.0,2023.0
+lifan,2017 - 2022 迈威,迈威,2017.0,2022.0
+lifan,2017 - 2022 轩朗,轩朗,2017.0,2022.0
+lifan,2017 - 2022 X70,X70,2017.0,2022.0
+lifan,2017 - 2022 X80,X80,2017.0,2022.0
+lincoln,2017 - 2018 MKS,MKS,2017.0,2018.0
+lincoln,2017 - 2018 MKX,MKX,2017.0,2018.0
+lincoln,2017 - 2019 MKC,MKC,2017.0,2019.0
+lincoln,2017 - 2019 MKT,MKT,2017.0,2019.0
+lincoln,2017 - 2020 MKZ,MKZ,2017.0,2020.0
+lincoln,2017 - 2023 Navigator,Navigator,2017.0,2023.0
+lincoln,2017 - 2020 Continental,Continental,2017.0,2020.0
+lincoln,2018 - 2023 Nautilus,Nautilus,2018.0,2023.0
+lincoln,2020 - 2023 Aviator,Aviator,2020.0,2023.0
+lincoln,2020 - 2023 Corsair,Corsair,2020.0,2023.0
+lotus,2023 Emira,Emira,2023.0,-1.0
+lotus,2024 Eletre,Eletre,2024.0,-1.0
+lucid,2023 Air,Air,2023.0,-1.0
+lynk-co,2021 - 2023 Lynk & Co 01,Lynk & Co 01,2021.0,2023.0
+mahindra,2018 - 2022 Alturas G4,Alturas G4,2018.0,2022.0
+mahindra,2018 - 2023 Marazzo,Marazzo,2018.0,2023.0
+mahindra,2019 - 2023 Scorpio,Scorpio,2019.0,2023.0
+mahindra,2019 - 2023 XUV300,XUV300,2019.0,2023.0
+mahindra,2019 - 2022 XUV500,XUV500,2019.0,2022.0
+mahindra,2020 - 2023 Thar,Thar,2020.0,2023.0
+mahindra,2023 XUV400,XUV400,2023.0,-1.0
+mahindra,2023 XUV700,XUV700,2023.0,-1.0
+maserati,2017 - 2023 Ghibli,Ghibli,2017.0,2023.0
+maserati,2017 - 2023 Levante,Levante,2017.0,2023.0
+maserati,2017 - 2023 Quattroporte,Quattroporte,2017.0,2023.0
+maserati,2018 - 2021 GT Convertible,GT Convertible,2018.0,2021.0
+maserati,2018 - 2020 GranTurismo,GranTurismo,2018.0,2020.0
+maserati,2022 - 2023 MC20,MC20,2022.0,2023.0
+maserati,2023 GranTurismo,GranTurismo,2023.0,-1.0
+maserati,2023 Grecale,Grecale,2023.0,-1.0
+maxus,2015 - 2023 G10,G10,2015.0,2023.0
+maxus,2017 - 2019 EV80,EV80,2017.0,2019.0
+maxus,2017 - 2023 D90,D90,2017.0,2023.0
+maxus,2017 - 2023 T60,T60,2017.0,2023.0
+maxus,2018 - 2023 V80,V80,2018.0,2023.0
+maxus,2019 - 2023 DELIVER 9,DELIVER 9,2019.0,2023.0
+maxus,2020 - 2023 eDELIVER 9,eDELIVER 9,2020.0,2023.0
+mazda,2018 - 2022 Mazda6,Mazda6,2018.0,2022.0
+mazda,2019 - 2023 CX‑5,CX‑5,2019.0,2023.0
+mazda,2019 - 2023 CX‑8,CX‑8,2019.0,2023.0
+mazda,2019 - 2023 CX‑9,CX‑9,2019.0,2023.0
+mazda,2019 - 2023 MX‑5,MX‑5,2019.0,2023.0
+mazda,2019 - 2023 Mazda3,Mazda3,2019.0,2023.0
+mazda,2020 - 2023 CX‑3,CX‑3,2020.0,2023.0
+mazda,2020 - 2023 CX30,CX30,2020.0,2023.0
+mazda,2020 - 2023 Mazda2,Mazda2,2020.0,2023.0
+mazda,2021 - 2023 MX‑30,MX‑30,2021.0,2023.0
+mazda,2022 - 2023 CX‑50,CX‑50,2022.0,2023.0
+mazda,2022 - 2023 CX‑60,CX‑60,2022.0,2023.0
+mazda,2024 CX‑90,CX‑90,2024.0,-1.0
+mercedes,2016 - 2023 A‑Class,A‑Class,2016.0,2023.0
+mercedes,2016 - 2023 B‑Class,B‑Class,2016.0,2023.0
+mercedes,2016 - 2023 CLA‑Class,CLA‑Class,2016.0,2023.0
+mercedes,2016 - 2023 CLS‑Class,CLS‑Class,2016.0,2023.0
+mercedes,2016 - 2023 E‑Class Cabriolet,E‑Class Cabriolet,2016.0,2023.0
+mercedes,2016 - 2023 E‑Class Coupe,E‑Class Coupe,2016.0,2023.0
+mercedes,2016 - 2023 GLA‑Class,GLA‑Class,2016.0,2023.0
+mercedes,2016 - 2023 GLE‑Class,GLE‑Class,2016.0,2023.0
+mercedes,2017 - 2020 X‑Class,X‑Class,2017.0,2020.0
+mercedes,2017 - 2023 E‑Class,E‑Class,2017.0,2023.0
+mercedes,2017 - 2023 GLS‑Class,GLS‑Class,2017.0,2023.0
+mercedes,2017 - 2023 SL‑Class,SL‑Class,2017.0,2023.0
+mercedes,2018 Sprinter,Sprinter,2018.0,-1.0
+mercedes,2018 - 2020 Vito,Vito,2018.0,2020.0
+mercedes,2018 - 2023 GLC‑Class,GLC‑Class,2018.0,2023.0
+mercedes,2018 - 2023 S‑Class,S‑Class,2018.0,2023.0
+mercedes,2019 - 2023 C‑Class,C‑Class,2019.0,2023.0
+mercedes,2020 Metris,Metris,2020.0,-1.0
+mercedes,2020 V‑Class,V‑Class,2020.0,-1.0
+mercedes,2020 - 2023 GLB‑Class,GLB‑Class,2020.0,2023.0
+mercedes,2020 - 2023 GLS‑Class,GLS‑Class,2020.0,2023.0
+mercedes,2021 Citan,Citan,2021.0,-1.0
+mercedes,2021 - 2023 EQA‑Class,EQA‑Class,2021.0,2023.0
+mercedes,2021 - 2023 EQC‑Class,EQC‑Class,2021.0,2023.0
+mercedes,2022 - 2023 EQB‑Class,EQB‑Class,2022.0,2023.0
+mercedes,2022 - 2023 EQS‑Class,EQS‑Class,2022.0,2023.0
+mercedes,2023 - 2023 EQE‑Class,EQE‑Class,2023.0,2023.0
+mercedes,2024 CLE‑Class,CLE‑Class,2024.0,-1.0
+mercedes,2024 E‑Class,E‑Class,2024.0,-1.0
+mg,2016 GT,GT,2016.0,-1.0
+mg,2016 - 2023 MG5,MG5,2016.0,2023.0
+mg,2017 - 2023 RX5,RX5,2017.0,2023.0
+mg,2017 - 2022 GS,GS,2017.0,2022.0
+mg,2017 - 2022 ZP,ZP,2017.0,2022.0
+mg,2017 - 2022 ZS,ZS,2017.0,2022.0
+mg,2019 - 2023 Hector,Hector,2019.0,2023.0
+mg,2019 - 2022 MG,MG,2019.0,2022.0
+mg,2019 - 2023 MG Ei5,MG Ei5,2019.0,2023.0
+mg,2019 - 2022 HS,HS,2019.0,2022.0
+mg,2019 - 2023 ZS EV,ZS EV,2019.0,2023.0
+mg,2020 - 2022 eHS,eHS,2020.0,2022.0
+mg,2020 - 2022 Gloster,Gloster,2020.0,2022.0
+mg,2020 - 2022 MG3,MG3,2020.0,2022.0
+mg,2022 - 2023 MG4,MG4,2022.0,2023.0
+mg,2021 - 2023 Marvel R,Marvel R,2021.0,2023.0
+mg,2021 - 2023 Astor,Astor,2021.0,2023.0
+mini,2018 - 2023 Clubman,Clubman,2018.0,2023.0
+mini,2018 - 2023 Countryman,Countryman,2018.0,2023.0
+mini,2019 - 2023 Convertible,Convertible,2019.0,2023.0
+mini,2019 - 2023 Hardtop 2 Door,Hardtop 2 Door,2019.0,2023.0
+mini,2019 - 2023 Hardtop 4 Door,Hardtop 4 Door,2019.0,2023.0
+mitsubishi,2017 i‑MiEV,i‑MiEV,2017.0,-1.0
+mitsubishi,2016 - 2023 Pajero,Pajero,2016.0,2023.0
+mitsubishi,2016 - 2023 Pajero Sport,Pajero Sport,2016.0,2023.0
+mitsubishi,2016 - 2023 Mirage,Mirage,2016.0,2023.0
+mitsubishi,2016 - 2023 Mirage G4,Mirage G4,2016.0,2023.0
+mitsubishi,2017 - 2023 Outlander,Outlander,2017.0,2023.0
+mitsubishi,2017 - 2023 Outlander PHEV,Outlander PHEV,2017.0,2023.0
+mitsubishi,2017 - 2023 ASX,ASX,2017.0,2023.0
+mitsubishi,2017 - 2023 Triton,Triton,2017.0,2023.0
+mitsubishi,2017 - 2023 Delica D:2,Delica D:2,2017.0,2023.0
+mitsubishi,2017 - 2023 Delica D:2 Custom,Delica D:2 Custom,2017.0,2023.0
+mitsubishi,2018 - 2023 Eclipse Cross,Eclipse Cross,2018.0,2023.0
+mitsubishi,2023 Xpander,Xpander,2023.0,-1.0
+nissan,2017 - 2023 Maxima,Maxima,2017.0,2023.0
+nissan,2017 - 2023 Micra,Micra,2017.0,2023.0
+nissan,2017.5 - 2023 Murano,Murano,2017.5,2023.0
+nissan,2018 - 2023 GT‑R,GT‑R,2018.0,2023.0
+nissan,2018 - 2023 Kicks,Kicks,2018.0,2023.0
+nissan,2018 - 2023 Leaf,Leaf,2018.0,2023.0
+nissan,2018 - 2023 Rogue,Rogue,2018.0,2023.0
+nissan,2019 - 2023 Altima,Altima,2019.0,2023.0
+nissan,2019 - 2023 Qashqai,Qashqai,2019.0,2023.0
+nissan,2019 - 2022 Rogue Sport,Rogue Sport,2019.0,2022.0
+nissan,2019 - 2023 Sentra,Sentra,2019.0,2023.0
+nissan,2019 - 2023 Terrano,Terrano,2019.0,2023.0
+nissan,2019 - 2023 Titan,Titan,2019.0,2023.0
+nissan,2019 - 2023 Versa,Versa,2019.0,2023.0
+nissan,2019 - 2023 X‑Trail,X‑Trail,2019.0,2023.0
+nissan,2020 - 2023 Patrol,Patrol,2020.0,2023.0
+nissan,2021 - 2023 Armada,Armada,2021.0,2023.0
+nissan,2022 - 2023 Frontier,Frontier,2022.0,2023.0
+nissan,2022 - 2023 Pathfinder,Pathfinder,2022.0,2023.0
+nissan,2023 Ariya,Ariya,2023.0,-1.0
+opel,2016 - 2020 ADAM,ADAM,2016.0,2020.0
+opel,2016 - 2023 Astra,Astra,2016.0,2023.0
+opel,2016 - 2023 Corsa,Corsa,2016.0,2023.0
+opel,2016 - 2023 Insignia,Insignia,2016.0,2023.0
+opel,2016 - 2020 KARL,KARL,2016.0,2020.0
+opel,2017 - 2022 Ampera‑e,Ampera‑e,2017.0,2022.0
+opel,2017 - 2023 Crossland X,Crossland X,2017.0,2023.0
+opel,2017 - 2023 Mokka,Mokka,2017.0,2023.0
+opel,2017 - 2023 Zafira,Zafira,2017.0,2023.0
+opel,2018 - 2023 Combo Life,Combo Life,2018.0,2023.0
+opel,2018 - 2023 Grandland,Grandland,2018.0,2023.0
+peugeot,2016 - 2023 208,208,2016.0,2023.0
+peugeot,2016 - 2023 2008,2008,2016.0,2023.0
+peugeot,2016 - 2023 308S,308S,2016.0,2023.0
+peugeot,2016 - 2023 3008,3008,2016.0,2023.0
+peugeot,2016 - 2023 4008,4008,2016.0,2023.0
+peugeot,2016 - 2023 408,408,2016.0,2023.0
+peugeot,2017 - 2023 301,301,2017.0,2023.0
+peugeot,2017 - 2023 308,308,2017.0,2023.0
+peugeot,2017 - 2023 308 SW,308 SW,2017.0,2023.0
+peugeot,2017 - 2023 508,508,2017.0,2023.0
+peugeot,2017 - 2023 5008,5008,2017.0,2023.0
+peugeot,2016 - 2023 Expert,Expert,2016.0,2023.0
+peugeot,2016 - 2023 Partner Tepee,Partner Tepee,2016.0,2023.0
+peugeot,2016 - 2023 Traveller,Traveller,2016.0,2023.0
+peugeot,2018 - 2023 Rifter,Rifter,2018.0,2023.0
+polaris-slingshot,2021 - 2023 Slingshot,Slingshot,2021.0,2023.0
+polestar,2020 - 2023 Polestar 1,Polestar 1,2020.0,2023.0
+polestar,2021 - 2023 Polestar 2,Polestar 2,2021.0,2023.0
+porsche,2017 - 2023 718,718,2017.0,2023.0
+porsche,2017 - 2023 Panamera,Panamera,2017.0,2023.0
+porsche,2017 - 2023 Macan,Macan,2017.0,2023.0
+porsche,2017 - 2023 Cayenne,Cayenne,2017.0,2023.0
+porsche,2017 - 2023 911,911,2017.0,2023.0
+porsche,2020 - 2023 Taycan,Taycan,2020.0,2023.0
+qoros,2017 - 2022 Young,Young,2017.0,2022.0
+ram,2018 - 2023 Ram 1500,Ram 1500,2018.0,2023.0
+ram,2018 - 2023 Ram 2500,Ram 2500,2018.0,2023.0
+ram,2018 - 2023 Ram 3500,Ram 3500,2018.0,2023.0
+ram,2018 - 2022 Ram 4500,Ram 4500,2018.0,2022.0
+ram,2024 RAMPAGE,RAMPAGE,2024.0,-1.0
+renault,2017 - 2020 Twingo,Twingo,2017.0,2020.0
+renault,2017 - 2021 Duster,Duster,2017.0,2021.0
+renault,2017 - 2022 Espace,Espace,2017.0,2022.0
+renault,2017 - 2022 Fluence,Fluence,2017.0,2022.0
+renault,2017 - 2022 Kadjar,Kadjar,2017.0,2022.0
+renault,2017 - 2022 Talisman,Talisman,2017.0,2022.0
+renault,2017 - 2022 Talisman Estate,Talisman Estate,2017.0,2022.0
+renault,2017 - 2023 Captur,Captur,2017.0,2023.0
+renault,2017 - 2023 Clio,Clio,2017.0,2023.0
+renault,2017 - 2023 Kid,Kid,2017.0,2023.0
+renault,2017 - 2023 Kangoo,Kangoo,2017.0,2023.0
+renault,2017 - 2023 Koleos,Koleos,2017.0,2023.0
+renault,2017 - 2023 Master,Master,2017.0,2023.0
+renault,2017 - 2023 Mégane,Mégane,2017.0,2023.0
+renault,2017 - 2023 Mégane Estate,Mégane Estate,2017.0,2023.0
+renault,2017 - 2023 Oroch,Oroch,2017.0,2023.0
+renault,2017 - 2023 Sandero,Sandero,2017.0,2023.0
+renault,2017 - 2023 Scénic,Scénic,2017.0,2023.0
+renault,2017 - 2023 Grand Scénic,Grand Scénic,2017.0,2023.0
+renault,2017 - 2023 Traffic,Traffic,2017.0,2023.0
+renault,2017 - 2023 Zoe,Zoe,2017.0,2023.0
+renault,2019 - 2023 Arkana,Arkana,2019.0,2023.0
+renault,2019 - 2023 Alaskan,Alaskan,2019.0,2023.0
+renault,2019 - 2023 Triber,Triber,2019.0,2023.0
+renault,2020 - 2022 Kaptur,Kaptur,2020.0,2022.0
+renault,2021 - 2023 Kiger,Kiger,2021.0,2023.0
+renault,2022 - 2023 Austral,Austral,2022.0,2023.0
+renault,2022 - 2023 Kwid E‑Tech,Kwid E‑Tech,2022.0,2023.0
+renault,2023 Kangoo E‑Tech,Kangoo E‑Tech,2023.0,-1.0
+renault,2023 Megane E‑Tech,Megane E‑Tech,2023.0,-1.0
+renault,2023 Twingo E‑Tech,Twingo E‑Tech,2023.0,-1.0
+roewe,2016 - 2023 RX5,RX5,2016.0,2023.0
+roewe,2017 - 2023 eRX5,eRX5,2017.0,2023.0
+roewe,2017 - 2023 RX3,RX3,2017.0,2023.0
+roewe,2017 - 2023 i6,i6,2017.0,2023.0
+roewe,2019 - 2021 i5,i5,2019.0,2021.0
+rolls-royce,2020 - 2023 Cullinan,Cullinan,2020.0,2023.0
+rolls-royce,2020 - 2022 Dawn,Dawn,2020.0,2022.0
+rolls-royce,2020 - 2023 Ghost,Ghost,2020.0,2023.0
+rolls-royce,2020 - 2023 Phantom,Phantom,2020.0,2023.0
+rolls-royce,2020 - 2023 Wraith,Wraith,2020.0,2023.0
+rolls-royce,2023 Spectre,Spectre,2023.0,-1.0
+seat,2016 - 2023 Alhambra,Alhambra,2016.0,2023.0
+seat,2016 - 2023 Ibiza,Ibiza,2016.0,2023.0
+seat,2016 - 2023 Leon,Leon,2016.0,2023.0
+seat,2016 - 2023 Toledo,Toledo,2016.0,2023.0
+seat,2017 - 2023 Ateca,Ateca,2017.0,2023.0
+seat,2018 - 2023 Arona,Arona,2018.0,2023.0
+seat,2020 - 2023 Tarraco,Tarraco,2020.0,2023.0
+skoda,2016 - 2017 Yeti,Yeti,2016.0,2017.0
+skoda,2016 - 2023 Fabia,Fabia,2016.0,2023.0
+skoda,2016 - 2023 Octavia,Octavia,2016.0,2023.0
+skoda,2016 - 2022 Rapid,Rapid,2016.0,2022.0
+skoda,2016 - 2023 Superb,Superb,2016.0,2023.0
+skoda,2017 - 2023 Karoq,Karoq,2017.0,2023.0
+skoda,2017 - 2023 Kodiaq,Kodiaq,2017.0,2023.0
+skoda,2017 - 2023 Scala,Scala,2017.0,2023.0
+skoda,2018 - 2023 Kamiq,Kamiq,2018.0,2023.0
+skoda,2020 - 2023 Enyaq iV,Enyaq iV,2020.0,2023.0
+skoda,2023 Enyaq Coupé iV,Enyaq Coupé iV,2023.0,-1.0
+skoda,2023 Fabia,Fabia,2023.0,-1.0
+subaru,2017 - 2023 Impreza,Impreza,2017.0,2023.0
+subaru,2018 - 2023 BRZ,BRZ,2018.0,2023.0
+subaru,2018 - 2023 Crosstrek,Crosstrek,2018.0,2023.0
+subaru,2018 - 2023 Legacy,Legacy,2018.0,2023.0
+subaru,2018 - 2023 Outback,Outback,2018.0,2023.0
+subaru,2019 - 2023 Ascent,Ascent,2019.0,2023.0
+subaru,2019 - 2023 Forester,Forester,2019.0,2023.0
+subaru,2019 - 2023 WRX,WRX,2019.0,2023.0
+subaru,2019 - 2022 WRX STI,WRX STI,2019.0,2022.0
+subaru,2023 Solterra,Solterra,2023.0,-1.0
+suzuki,2016 - 2023 Baleno,Baleno,2016.0,2023.0
+suzuki,2016 - 2023 Ciaz,Ciaz,2016.0,2023.0
+suzuki,2016 - 2023 Hustler,Hustler,2016.0,2023.0
+suzuki,2016 - 2023 Ignis,Ignis,2016.0,2023.0
+suzuki,2016 - 2023 Lapin,Lapin,2016.0,2023.0
+suzuki,2016 - 2023 Solio,Solio,2016.0,2023.0
+suzuki,2016 - 2023 Solio Bandit,Solio Bandit,2016.0,2023.0
+suzuki,2016 - 2023 Spacia,Spacia,2016.0,2023.0
+suzuki,2016 - 2023 Spacia Custom,Spacia Custom,2016.0,2023.0
+suzuki,2016 - 2023 SX4 S‑CROSS,SX4 S‑CROSS,2016.0,2023.0
+suzuki,2016 - 2023 Vitara,Vitara,2016.0,2023.0
+suzuki,2018 - 2023 Dzire,Dzire,2018.0,2023.0
+suzuki,2018 - 2023 Jimny,Jimny,2018.0,2023.0
+suzuki,2018 - 2023 Swift,Swift,2018.0,2023.0
+suzuki,2023 S‑Cross,S‑Cross,2023.0,-1.0
+tank,2020 - 2023 TANK 300,TANK 300,2020.0,2023.0
+tata,2017 - 2023 Nexon,Nexon,2017.0,2023.0
+tata,2019 - 2022 Hexa,Hexa,2019.0,2022.0
+tata,2019 - 2023 Tiago,Tiago,2019.0,2023.0
+tata,2019 - 2023 Tigor,Tigor,2019.0,2023.0
+tata,2020 - 2023 Altroz,Altroz,2020.0,2023.0
+tata,2020 - 2023 Harrier,Harrier,2020.0,2023.0
+tata,2021 - 2023 Punch,Punch,2021.0,2023.0
+tata,2021 - 2023 Safari,Safari,2021.0,2023.0
+toyota,2018 - 2022 Aygo,Aygo,2018.0,2022.0
+toyota,2019 - 2022 Avalon,Avalon,2019.0,2022.0
+toyota,2019 - 2023 Corolla Hatchback,Corolla Hatchback,2019.0,2023.0
+toyota,2019 - 2023 Camry,Camry,2019.0,2023.0
+toyota,2019 - 2023 C‑HR,C‑HR,2019.0,2023.0
+toyota,2019 - 2023 RAV4,RAV4,2019.0,2023.0
+toyota,2019 - 2023 Sienna,Sienna,2019.0,2023.0
+toyota,2020 - 2021 86,86,2020.0,2021.0
+toyota,2020 - 2023 4Runner,4Runner,2020.0,2023.0
+toyota,2020 - 2023 Corolla,Corolla,2020.0,2023.0
+toyota,2020 - 2023 Highlander,Highlander,2020.0,2023.0
+toyota,2020 - 2023 Prius,Prius,2020.0,2023.0
+toyota,2020 - 2023 Prius Prime,Prius Prime,2020.0,2023.0
+toyota,2020 - 2023 Sequoia,Sequoia,2020.0,2023.0
+toyota,2020 - 2023 GR Supra,GR Supra,2020.0,2023.0
+toyota,2020 - 2023 Tacoma,Tacoma,2020.0,2023.0
+toyota,2020 - 2023 Tundra,Tundra,2020.0,2023.0
+toyota,2020 - 2023 Yaris,Yaris,2020.0,2023.0
+toyota,2021 - 2023 Avanza,Avanza,2021.0,2023.0
+toyota,2021 - 2023 Mirai,Mirai,2021.0,2023.0
+toyota,2021 - 2023 Venza,Venza,2021.0,2023.0
+toyota,2022 - 2023 Corolla Cross,Corolla Cross,2022.0,2023.0
+toyota,2022 - 2023 GR86,GR86,2022.0,2023.0
+toyota,2022 - 2023 Voxy,Voxy,2022.0,2023.0
+toyota,2023 Aygo X,Aygo X,2023.0,-1.0
+toyota,2023 bZ4X,bZ4X,2023.0,-1.0
+toyota,2023 Crown,Crown,2023.0,-1.0
+toyota,2023 GR Corolla,GR Corolla,2023.0,-1.0
+toyota,2024 Grand Highlander,Grand Highlander,2024.0,-1.0
+vauxhall,2016 - 2020 ADAM,ADAM,2016.0,2020.0
+vauxhall,2016 - 2023 Astra,Astra,2016.0,2023.0
+vauxhall,2016 - 2023 Corsa,Corsa,2016.0,2023.0
+vauxhall,2016 - 2023 Insignia,Insignia,2016.0,2023.0
+vauxhall,2016 - 2022 Viva,Viva,2016.0,2022.0
+vauxhall,2017 - 2022 Ampera‑e,Ampera‑e,2017.0,2022.0
+vauxhall,2017 - 2023 Crossland‑x,Crossland‑x,2017.0,2023.0
+vauxhall,2017 - 2023 Grandland,Grandland,2017.0,2023.0
+vauxhall,2017 - 2023 Mokka,Mokka,2017.0,2023.0
+vauxhall,2017 - 2023 Zafira,Zafira,2017.0,2023.0
+vinfast,2023 VF8,VF8,2023.0,-1.0
+vinfast,2023 VF9,VF9,2023.0,-1.0
+vw,2016 Spacefox,Spacefox,2016.0,-1.0
+vw,2016 - 2018 CC,CC,2016.0,2018.0
+vw,2016 - 2018 Scirocco,Scirocco,2016.0,2018.0
+vw,2016 - 2023 Amarok,Amarok,2016.0,2023.0
+vw,2016 - 2019 Beetle,Beetle,2016.0,2019.0
+vw,2016 - 2019 Beetle Cabriolet,Beetle Cabriolet,2016.0,2019.0
+vw,2016 - 2023 Golf R,Golf R,2016.0,2023.0
+vw,2016 - 2023 Caddy,Caddy,2016.0,2023.0
+vw,2016 - 2023 California,California,2016.0,2023.0
+vw,2016 - 2023 Caravelle,Caravelle,2016.0,2023.0
+vw,2016 - 2021 e‑Golf,e‑Golf,2016.0,2021.0
+vw,2016 - 2021 Fox,Fox,2016.0,2021.0
+vw,2016 - 2023 Golf,Golf,2016.0,2023.0
+vw,2016 - 2023 Golf Cabriolet,Golf Cabriolet,2016.0,2023.0
+vw,2016 - 2023 Golf SportsVan,Golf SportsVan,2016.0,2023.0
+vw,2016 - 2023 Golf Variant,Golf Variant,2016.0,2023.0
+vw,2016 - 2023 Golf SportWagen,Golf SportWagen,2016.0,2023.0
+vw,2016 - 2023 GTI,GTI,2016.0,2023.0
+vw,2016 - 2023 Jetta,Jetta,2016.0,2023.0
+vw,2016 - 2023 Lamando,Lamando,2016.0,2023.0
+vw,2016 - 2023 Multivan,Multivan,2016.0,2023.0
+vw,2016 - 2022 Passat Variant,Passat Variant,2016.0,2022.0
+vw,2016 - 2023 Polo,Polo,2016.0,2023.0
+vw,2016 - 2022 Sharan,Sharan,2016.0,2022.0
+vw,2016 - 2023 Tiguan,Tiguan,2016.0,2023.0
+vw,2016 - 2023 Touran,Touran,2016.0,2023.0
+vw,2016 - 2023 Transporter,Transporter,2016.0,2023.0
+vw,2016 - 2022 Passat,Passat,2016.0,2022.0
+vw,2017 - 2023 Atlas,Atlas,2017.0,2023.0
+vw,2017 - 2023 Crafter,Crafter,2017.0,2023.0
+vw,2017 - 2023 CrossFox,CrossFox,2017.0,2023.0
+vw,2017 - 2023 Gol,Gol,2017.0,2023.0
+vw,2017 - 2023 Saveiro,Saveiro,2017.0,2023.0
+vw,2017 - 2023 Voyage,Voyage,2017.0,2023.0
+vw,2018 - 2023 Arteon,Arteon,2018.0,2023.0
+vw,2018 - 2023 Bora,Bora,2018.0,2023.0
+vw,2018 - 2023 Magotan,Magotan,2018.0,2023.0
+vw,2018 - 2023 Sagitar,Sagitar,2018.0,2023.0
+vw,2018 - 2023 T‑Roc,T‑Roc,2018.0,2023.0
+vw,2021 - 2023 ID.3,ID.3,2021.0,2023.0
+vw,2021 - 2023 ID.4,ID.4,2021.0,2023.0
+vw,2022 - 2023 Taos,Taos,2022.0,2023.0
+vw,2022 - 2023 ID.5,ID.5,2022.0,2023.0
+vw,2022 - 2023 ID.6,ID.6,2022.0,2023.0
+vw,2022 - 2023 Talagon,Talagon,2022.0,2023.0
+vw,2023 ID.Buzz,ID.Buzz,2023.0,-1.0
+vw,2024 ID.7,ID.7,2024.0,-1.0
+volvo,2016 - 2023 XC90,XC90,2016.0,2023.0
+volvo,2017 - 2023 S90,S90,2017.0,2023.0
+volvo,2017 - 2023 V90,V90,2017.0,2023.0
+volvo,2018 - 2023 XC60,XC60,2018.0,2023.0
+volvo,2019 - 2023 S60,S60,2019.0,2023.0
+volvo,2019 - 2023 V60,V60,2019.0,2023.0
+volvo,2019 - 2023 XC40,XC40,2019.0,2023.0
+volvo,2022 - 2023 C40 Recharge,C40 Recharge,2022.0,2023.0
+volvo,2024 Volvo EX30,Volvo EX30,2024.0,-1.0
+wey,2017 - 2023 VV5,VV5,2017.0,2023.0
+wey,2017 - 2023 VV7,VV7,2017.0,2023.0
+wey,2018 - 2023 VV6,VV6,2018.0,2023.0
