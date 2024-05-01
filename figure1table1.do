@@ -1,3 +1,12 @@
+/*
+This file creates two figures:
+
+a) CarPlay adoption over time
+b) Summary statistics 
+*/
+
+// CarPlay adoptions figure
+
 cd "C:\Users\Bryant Xia\Desktop\Projects\CarPlay"
 clear all
 import delimited apple, clear
@@ -10,6 +19,8 @@ rename freq adopted
 line adopted start, title("Adoption of Carplay Over Time") note("1") caption("source: scrapped from apple.com/ios/carplay/available-models/ by the author") xtitle("Year") ytitle("New Adoptions") scheme(s1mono) 
 
 graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\figures\adoption.jpg", as(jpg) name("Graph") quality(100)
+
+// Summary statistics from the merged accidents file
 
 use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_21_merged_vehicle.dta", clear
 

@@ -1,3 +1,11 @@
+/*
+Clean and merge several FARS data sets.
+
+FARS updates several data sets yearly. The relevant ones for my purposes are vehicle, vpicdecode, and accident. Vehicle includes information on the vehicles involved in accidents (e.g. model year, body type, etc.); vpicdecode contains information from decoding the vehicle identification number (VIN) of vehciles in the data files (the numerical info here is helpful for matching later on); and finally, the accident data contains non-occupant deaths involved in crashes.
+
+We define total death for a vehicle in a crash by: v + m/n, where v is the death(s) in this vehcile, m is the total number of non-occupant deaths in this crash, and n is the total number of vehicles involved in the crash. In other words, we attribute non-occupant deaths evenly across all vehicles involved.
+*/
+
 clear all
 
 foreach y of numlist 2008/2021 {	
@@ -22,7 +30,7 @@ foreach y of numlist 2008/2021 {
 	drop if _merge == 1 // same reason
 	drop _merge
 	
-	// the non-occupant deaths will be divided evenly across all vehicles recorded in the accident
+	// accident data files
 	egen occ_deaths = total(deaths), by(state st_case)
 	gen diff = fatals - deaths
 	gen freq = 1

@@ -4,26 +4,16 @@ set maxvar 30000
 use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_21_merged_vehicle.dta", clear
 
 drop if missing(year)
-
 collapse (sum) total_deaths, by (year)
-
-line total_deaths year, title("Total Deaths Over Time") xtitle("Year") ytitle("Total Deaths") scheme(s1mono) 
-
+line total_deaths year, title("Total Deaths Over Time") xtitle("Calendar Year") ytitle("Total Deaths") scheme(s1mono) 
 graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\figures\deaths_08_21.jpg", as(jpg) name("Graph") quality(100)
-
 use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_21_merged_vehicle.dta", clear
 
 drop if missing(mod_year)
-
 keep if mod_year >= 2000 & mod_year <= 2022
-
 collapse (sum) total_deaths, by (mod_year)
-
 line total_deaths mod_year, title("Total Deaths Over Model Year") xtitle("Model Year") ytitle("Total Deaths") scheme(s1mono) 
-
 graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\figures\deaths_modyear_08_21.jpg", as(jpg) name("Graph") quality(100)
-
-
 
 // gen state_code = "HI"
 // replace state_code = "Alabama" if state == 1
