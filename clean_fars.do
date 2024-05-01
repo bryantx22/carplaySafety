@@ -8,7 +8,7 @@ We define total death for a vehicle in a crash by: v + m/n, where v is the death
 
 clear all
 
-foreach y of numlist 2008/2021 {	
+foreach y of numlist 2008/2022 {	
 	// subset variables I want from vpic types
 	import delimited "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\FARS`y'NationalCSV\vehicle.csv", clear
 	gen year = `y'
@@ -43,8 +43,8 @@ foreach y of numlist 2008/2021 {
 
 use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\trimmed_2008.dta", clear
 
-foreach y of numlist 2009/2021 {
+foreach y of numlist 2009/2022 {
     append using "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\trimmed_`y'.dta"
 } 
 
-save "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_21_merged_vehicle.dta", replace
+save "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_22_merged_vehicle.dta", replace
