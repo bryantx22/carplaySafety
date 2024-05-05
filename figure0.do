@@ -1,19 +1,19 @@
 clear all
 set maxvar 30000
 
-use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_21_merged_vehicle.dta", clear
+use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_22_merged_vehicle.dta", clear
 
 drop if missing(year)
 collapse (sum) total_deaths, by (year)
-line total_deaths year, title("Total Deaths Over Time") xtitle("Calendar Year") ytitle("Total Deaths") scheme(s1mono) 
-graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\figures\deaths_08_21.jpg", as(jpg) name("Graph") quality(100)
-use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_21_merged_vehicle.dta", clear
+line total_deaths year, title("Total Deaths Over Time") xtitle("Calendar Year") ytitle("Total Deaths") xlabel(2008(2)2022) scheme(s1mono) 
+graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\newFigures\deaths_08_22.jpg", as(jpg) width(16000) replace
 
+use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_22_merged_vehicle.dta", clear
 drop if missing(mod_year)
 keep if mod_year >= 2000 & mod_year <= 2022
 collapse (sum) total_deaths, by (mod_year)
 line total_deaths mod_year, title("Total Deaths Over Model Year") xtitle("Model Year") ytitle("Total Deaths") scheme(s1mono) 
-graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\figures\deaths_modyear_08_21.jpg", as(jpg) name("Graph") quality(100)
+graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\newFigures\deaths_modyear_08_22.jpg", as(jpg) width(16000) replace
 
 // gen state_code = "HI"
 // replace state_code = "Alabama" if state == 1

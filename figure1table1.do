@@ -18,11 +18,11 @@ collapse (sum) freq, by(start)
 rename freq adopted
 line adopted start, title("Adoption of Carplay Over Time") note("1") caption("source: scrapped from apple.com/ios/carplay/available-models/ by the author") xtitle("Year") ytitle("New Adoptions") scheme(s1mono) 
 
-graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\figures\adoption.jpg", as(jpg) name("Graph") quality(100)
+graph export "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\figures\adoption.jpg", as(jpg) width(16000) replace
 
 // Summary statistics from the merged accidents file
 
-use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_21_merged_vehicle.dta", clear
+use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\08_22_merged_vehicle.dta", clear
 
 replace mod_year = . if mod_year == 9999
 replace prev_acc = . if prev_acc > 97

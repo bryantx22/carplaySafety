@@ -24,7 +24,7 @@ drop if abs_diff > 2
 drop if missing(makeid)
 drop if missing(modelid)
 
-collapse (sum) total_deaths (mean) prev_acc, by (makeid modelid mod_year)
+collapse (sum) total_deaths (mean) prev_acc (min) year_min=year (max) year_max=year, by (makeid modelid mod_year)
 save "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\deaths_collapsed_makeModel.dta", replace 
 
 // processing apple's list
@@ -121,7 +121,7 @@ drop if missing(makeid)
 drop if missing(modelid)
 drop if missing(year)
 
-collapse (sum) total_deaths deaths (mean) prev_acc, by (year modelid makeid)
+collapse (sum) total_deaths deaths (mean) prev_acc (min) min_myear=mod_year (max) max_myear = mod_year, by (year modelid makeid)
 save "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\deaths_collapsed_makeModelTime.dta", replace
 
 use "C:\Users\Bryant Xia\Desktop\Projects\CarPlay\Data\apple_cleaned.dta", clear
@@ -133,6 +133,7 @@ gen timeToTreat = year - start
 replace timeToTreat = . if start > 2022
 egen carid = group(makeid modelid)
 gen l_deaths = log(total_deaths)
+gen delta_myear = max_myear - min_myear + 1
 
 local depvars total_deaths l_deaths prev_acc
 local names "Deaths Log_Deaths Avg_Priors"
